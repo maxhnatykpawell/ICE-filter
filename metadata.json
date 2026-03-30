@@ -1,0 +1,5 @@
+{
+  "name": "ICE Scoring Board",
+  "description": "Динамічна таблиця для пріоритезації ідей за фреймворком ICE (Impact, Confidence, Ease).",
+  "requestFramePermissions": []
+}
